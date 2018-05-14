@@ -52,4 +52,15 @@ I got a job | 0.70725995
 I lost my job | 0.11154106
 I got the job done | 0.9407746
 
+## Usage
+Just run the chatbot file and enter sentences for now. It's get better I promise.
+
+```bash
+git clone https://github.com/ammarasmro/chatbot-sentiment-analyzer.git
+cd chatbot-sentiment-analyzer
+python3 chatbot.py
+```
+
+> PS: Sorry of the extra data. I need it for easy access when I train models
+
 [Kaggle Competition]: https://www.kaggle.com/c/twitter-sentiment-analysis2 "Kaggle"
