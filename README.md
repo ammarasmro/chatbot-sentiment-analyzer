@@ -53,7 +53,7 @@ I lost my job | 0.11154106
 I got the job done | 0.9407746
 
 ## Usage
-Just run the chatbot file and enter sentences for now. It's get better I promise.
+Just run the chatbot file and enter sentences for now. It'll get better I promise.
 
 ```bash
 git clone https://github.com/ammarasmro/chatbot-sentiment-analyzer.git
